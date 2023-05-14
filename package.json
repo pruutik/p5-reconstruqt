@@ -1,0 +1,28 @@
+{
+  "name": "p5-reconstruqt",
+  "version": "1.0.0",
+  "description": "Reproduction of the reconstruqt.fusz.jp background using p5.js.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pruutik/p5-reconstruqt.git"
+  },
+  "keywords": [
+    "reconstruqt",
+    "p5"
+  ],
+  "author": "pruutik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pruutik/p5-reconstruqt/issues"
+  },
+  "homepage": "https://github.com/pruutik/p5-reconstruqt#readme",
+  "devDependencies": {
+    "@types/p5": "^1.6.2",
+    "p5": "^1.6.0",
+    "typescript": "^5.0.4"
+  }
+}
